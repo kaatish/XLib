@@ -178,5 +178,6 @@ void GraphWeight<vid_t, eoff_t, weight_t>
 template class GraphWeight<int, int, int>;
 template class GraphWeight<int, int, float>;
 template class GraphWeight<int64_t, int64_t, int64_t>;
+template class GraphWeight<int64_t, int64_t, float>;
 
 } // namespace graph

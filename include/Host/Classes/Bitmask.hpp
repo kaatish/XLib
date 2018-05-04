@@ -40,6 +40,7 @@
 
 #include "Host/Classes/BitRef.hpp"
 #include "Host/Numeric.hpp"
+#include "Host/Metaprogramming.hpp"
 #include <cstddef>
 
 namespace xlib {
